@@ -7,6 +7,8 @@
 <title>Personal Details</title>
 </head>
 <body>
+	<h1>PERSONAL DETAILS</h1>
+	<br>
 	<h2>DOB : ${profile.dob}</h2>
 	<h2>Age : ${profile.age}</h2>
 	<br>

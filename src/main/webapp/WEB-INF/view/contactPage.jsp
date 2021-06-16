@@ -7,6 +7,8 @@
 <title>Contact details</title>
 </head>
 <body>
+	<h1>CONTACT DETAILS</h1>
+	<br>
 	<h2>Mobile number : ${profile.mobNum}</h2>
 	<h2>Mail id : ${profile.email}</h2>
 	<br>

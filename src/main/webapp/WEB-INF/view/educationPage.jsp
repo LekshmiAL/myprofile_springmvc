@@ -7,6 +7,8 @@
 <title>Educational Details</title>
 </head>
 <body>
+	<h1>EDUCATIONAL DETAILS</h1>
+	<br>
 	<h2>College Name : ${profile.collegeName}</h2>
 	<h2>School Name : ${profile.schoolName}</h2>
 	<br>

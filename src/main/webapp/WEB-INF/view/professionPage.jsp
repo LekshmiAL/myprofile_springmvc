@@ -7,6 +7,8 @@
 <title>Professional Details</title>
 </head>
 <body>
+	<h1>PROFESSIONAL DETAILS</h1>
+	<br>
 	<h2>Current Company : ${profile.currentCompanyName}</h2>
 	<h2>ex-Company Name : ${profile.exCompanyNames}</h2>
 	<br>
